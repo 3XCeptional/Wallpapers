@@ -1,25 +1,24 @@
+# Personal Image & Wallpaper Archive
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-# Personal Image Gallery
-
-Welcome to my personal collection of wallpapers and images. This gallery was automatically generated and organized for easy browsing and reference.
-
----
-
-## About This Collection
-
-- **Directory Scanned:** `/mnt/HDD/Wallpapers/TMP_Wallpapers`
-- **Execution Timestamp:** `2025-07-31 13:43:25`
-- **Total Unique Images:** 697
-- **Total Markdown Pages:** 24
-
-All image filenames have been sanitized for URL compatibility. Spaces and non-standard characters have been replaced with underscores (`_`).
+A curated collection of images and wallpapers, automatically organized and documented by a custom Python script. This repository serves as a personal, non-commercial archive designed for easy browsing and reference.
 
 ---
 
-## Gallery Navigation
 
-Browse the collection using the links below:
+## ✨ Key Features
+
+*   **Automated Organization**: Images are recursively scanned, de-duplicated using content hashes, and categorized.
+*   **Structured by Attributes**: The collection is organized by orientation (Horizontal/Vertical), resolution (1080p, 2K, 4K+), and keyword tags.
+*   **URL-Safe Naming**: All filenames have been sanitized by replacing special characters with underscores (`_`) to ensure compatibility and prevent broken links.
+*   **Paginated Navigation**: The gallery is split into multiple Markdown pages for fast loading and convenient browsing.
+
+---
+
+## 🚀 Gallery Navigation
+
+Please use the links below to browse the paginated gallery.
 
 - [Page 1](wallpapers_page_1.md)
 - [Page 2](wallpapers_page_2.md)
@@ -48,18 +47,16 @@ Browse the collection using the links below:
 
 ---
 
+## ⚠️ Disclaimer of Ownership
+
+> **All images featured in this archive are the property of their respective creators and copyright holders.**
+>
+> I do not claim ownership of any image. This collection is maintained for personal, non-commercial use only. The primary purpose is to serve as a private reference and a convenient organizational backup. If you are a copyright holder and would like an image removed, please open an issue on this repository.
 
 ---
 
-## Disclaimer
+## 📜 License
 
-**All images in this collection are the property of their respective creators or copyright holders.**
+The organizational structure, documentation, and the automation script used to generate this repository are licensed under the **MIT License**. Please see the [LICENSE](LICENSE) file for full details.
 
-I do not claim ownership of any image. This repository serves only as my personal archive and is not intended for commercial distribution. The organization and documentation are for personal reference and convenience.
-
----
-
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+**Note:** This license applies only to the repository's scaffolding and code, **not** to the images themselves.
