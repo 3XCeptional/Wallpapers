@@ -1,24 +1,24 @@
+
 # Personal Image & Wallpaper Archive
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A curated collection of images and wallpapers, automatically organized and documented by a custom Python script. This repository serves as a personal, non-commercial archive designed for easy browsing and reference.
+Welcome to my personal, non-commercial archive of images and wallpapers. This collection is automatically organized and documented by a custom Python script for easy browsing, reference, and backup.
 
 ---
 
+## ✨ Features
 
-## ✨ Key Features
-
-*   **Automated Organization**: Images are recursively scanned, de-duplicated using content hashes, and categorized.
-*   **Structured by Attributes**: The collection is organized by orientation (Horizontal/Vertical), resolution (1080p, 2K, 4K+), and keyword tags.
-*   **URL-Safe Naming**: All filenames have been sanitized by replacing special characters with underscores (`_`) to ensure compatibility and prevent broken links.
-*   **Paginated Navigation**: The gallery is split into multiple Markdown pages for fast loading and convenient browsing.
+- **Automated Organization:** Recursively scans, de-duplicates (by content hash), and categorizes images.
+- **Structured by Attributes:** Organized by orientation (Horizontal/Vertical), resolution (1080p, 2K, 4K+), and keyword tags.
+- **URL-Safe Naming:** All filenames are sanitized (special characters replaced with underscores) for compatibility and reliable linking.
+- **Paginated Navigation:** The gallery is split into multiple Markdown pages for fast loading and convenient browsing.
 
 ---
 
 ## 🚀 Gallery Navigation
 
-Please use the links below to browse the paginated gallery.
+Browse the collection using the links below:
 
 - [Page 1](wallpapers_page_1.md)
 - [Page 2](wallpapers_page_2.md)
